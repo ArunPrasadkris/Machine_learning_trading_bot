@@ -20,7 +20,7 @@ PLOT 3- Tune the training algorithm by adjusting the size of the training datase
 
 PLOT 4- Tune the trading algorithm by adjusting the SMA input features.
 
-![Plot_Actual vs Strategy returns_SMA_40_200](https://user-images.githubusercontent.com/118064873/228396872-a12bbbdc-8c11-4b82-b0d8-e7f07afcb716.png)
+![Actual_Vs _Startegy_40_200](https://user-images.githubusercontent.com/118064873/228397935-4492e9eb-75a9-4dbb-b5a8-e7e9b7aaca81.png)
 
 # CONCLUSION: 
 Plot 3-Generate trading signals using short- and long-window SMA values
