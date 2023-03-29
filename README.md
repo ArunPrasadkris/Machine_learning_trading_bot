@@ -18,15 +18,12 @@ PLOT 3- Tune the training algorithm by adjusting the size of the training datase
 
 ![Actual_vs_Startegy_6months_training](https://user-images.githubusercontent.com/118064873/228398150-d5acdadc-bfcf-4d6c-a126-25a77b19a8b5.png)
 
-
 PLOT 4- Tune the trading algorithm by adjusting the SMA input features.
 
 ![Actual_Vs _Startegy_40_200](https://user-images.githubusercontent.com/118064873/228397935-4492e9eb-75a9-4dbb-b5a8-e7e9b7aaca81.png)
 
-# CONCLUSION: 
-Plot 3-Generate trading signals using short- and long-window SMA values
+Plot 5-Backtest the new model to evaluate its performance
 
 ![Plot_Actual Returns vs Strategy_returns](https://user-images.githubusercontent.com/118064873/228392388-0096b33b-9386-4022-8625-903bccc53623.png)
 
-1. Did this new model perform better or worse than the provided baseline model? Answer: No. The reason for this is, according to the diagram 5, after changing the classification model, the new model worked well until mid of 2020. However, after that the return of the new algo with Decisiontree didn't work well.
-2. Did this new model perform better or worse than your tuned trading algorithm? Answer: No, it worked better than the tuned trading algorithm until the mid of 2020. Nevertheless, it starts to decline after that. So, the tuned algorithm is better than the new algo based on Decisiontree.
+
