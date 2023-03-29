@@ -1,6 +1,11 @@
 # Machine_learning_trading_bot
 Module 14 Challenge
+
+![MachineLearninginMarketing](https://user-images.githubusercontent.com/118064873/228400786-48aef2b5-feda-4c05-a3f3-0a6dc8dc3501.jpg)
+[image source: https://www.ie.edu/lifelong-learning/blog/wp-content/uploads/2018/01/MachineLearninginMarketing-1621x1000.jpg]
+
 ### Executive Summary
+
   This report examines potential models for approaching algorithmic trading of emerging markets' OHLCV data. In the first section of the analysis, the provided notebook is opened in google colab, the kernel is restarted, and the cells corresponding to three steps are run: importing the OHLCV dataset into a Pandas DataFrame, generating trading signals using short- and long-window SMA values, and splitting the data into training and testing datasets. 
   The SVC model from the SKLearn support vector machine (SVM) learning method is then utilized to fit the training data and make predictions based on the testing data, which are reviewed. The subsequent step entails reviewing the classification report associated with the SVC model's predictions. A predictions DataFrame is then prepared, containing columns for "Predicted," "Actual Returns," and "Strategy Returns" for the DataFrame. The next step is creating a cumulative return plot depicting actual returns versus strategy returns, which serves as a baseline for comparing the effects of tuning the trading algorithm. After plotting the charts, they are exported as PNG files and saved in the Images directory.
   
