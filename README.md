@@ -16,7 +16,8 @@ PLOT 2- a cumulative return plot that shows the actual returns vs. the strategy 
 
 PLOT 3- Tune the training algorithm by adjusting the size of the training dataset.
 
-![Plot_Actual Vs Startegy Returns_6months_Training](https://user-images.githubusercontent.com/118064873/228396731-9df39c7c-90f1-467c-b928-c7364a29cb1f.png)
+![Actual_vs_Startegy_6months_training](https://user-images.githubusercontent.com/118064873/228398150-d5acdadc-bfcf-4d6c-a126-25a77b19a8b5.png)
+
 
 PLOT 4- Tune the trading algorithm by adjusting the SMA input features.
 
