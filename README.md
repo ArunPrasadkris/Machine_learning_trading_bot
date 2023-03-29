@@ -11,16 +11,21 @@ Plot 1- Generate trading signals using short- and long-window SMA values
 ![Plot_Trading Signals using Short and long window](https://user-images.githubusercontent.com/118064873/228393403-177e95f1-f5ad-48a4-8c54-f43f9bbc0f0c.png)
 
 PLOT 2- a cumulative return plot that shows the actual returns vs. the strategy returns
+
 The below Plot reflects the stratgeic returns are higher than the actual returns.
 
 ![Plot_Actual vs Startegy_Returns_Original](https://user-images.githubusercontent.com/118064873/228396475-bf5a84c4-02a7-44e1-8ebe-100e552744be.png)
 
 PLOT 3- Tune the training algorithm by adjusting the size of the training dataset.
+
 The below Plot reflects whe the training data is increased to 6 months can improve the performance of algo. 
+
 ![Actual_vs_Startegy_6months_training](https://user-images.githubusercontent.com/118064873/228398150-d5acdadc-bfcf-4d6c-a126-25a77b19a8b5.png)
 
 PLOT 4- Tune the trading algorithm by adjusting the SMA input features.
+
 In the below plot, SMA short wndows has been assigned to 40 and long windows assigned to 100.
+
 ![Actual_Vs _Startegy_40_200](https://user-images.githubusercontent.com/118064873/228397935-4492e9eb-75a9-4dbb-b5a8-e7e9b7aaca81.png)
 
 Plot 5-Backtest the new model to evaluate its performance
